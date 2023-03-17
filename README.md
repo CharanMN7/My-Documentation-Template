@@ -22,10 +22,10 @@ Write an overview of the project. What it does, maybe the reason for making this
 
 Insert Some scereenshots of your project in Action. Here is an example, if you're making a website or a webpage, insert the desktop version and the mobile version of how it looks.
 
-![](meme.png)
+![](meme.png)  
 This meme doesn't belong to me.
 
-![](splice-article-cover.jpg)
+![](splice-article-cover.jpg)  
 A cover image I've created for one of my [articles](https://charan-blog.netlify.app/)
 
 ### Links 📌
@@ -59,7 +59,7 @@ This section is all about you! Use this space to put a small message for the rea
 
 Here's how I'd go:
 
-Thank you for visiting!
+Thank you for visiting!  
 Check out my other projects:
 
 - [Personal Portfolio Page](https://github.com/CharanMN7/Personal-Portfolio-Page)
