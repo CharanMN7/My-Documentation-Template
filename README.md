@@ -1,6 +1,6 @@
 # Project Name
 
-A paragraph describing about this project. Maybe include a [link](https://bio.link/charanmanikantanalla) to something releveant.
+A paragraph describing the project. Maybe include a [link](https://bio.link/charanmanikantanalla) to something releveant.
 
 ## Table Of Contents 📖
 
@@ -20,7 +20,7 @@ Write an overview of the project. What it does, maybe the reason for making this
 
 ### Screenshots 🖼️
 
-Insert Some scereenshots of your project in Action. Here is am example, if you're making a website or a webpage, insert the desktop version and the mobile version of how it looks.
+Insert Some scereenshots of your project in Action. Here is an example, if you're making a website or a webpage, insert the desktop version and the mobile version of how it looks.
 
 ![](meme.png)
 This meme doesn't belong to me.
@@ -34,8 +34,8 @@ Insert the URLs to your project here, so that the visitor can go try it out.
 
 For example:
 
-- Live Site URL: [https://www.linkedin.com/in/charan-manikanta/](https://www.linkedin.com/in/charan-manikanta/)
-- Project Repo: [https://github.com/CharanMN7/To-Do-App](https://github.com/CharanMN7/To-Do-App)
+- Live Site URL: [https://charanmn7.github.io/Personal-Portfolio-Page](https://charanmn7.github.io/Personal-Portfolio-Page)
+- Project Repo: [https://github.com/CharanMN7/To-Do-App](https://github.com/CharanMN7/Personal-Portfolio-Page)
 
 ## Your Process 📝
 
@@ -59,10 +59,11 @@ This section is all about you! Use this space to put a small message for the rea
 
 Here's how I'd go:
 
-Thank you for visiting! if you read this far, you might be interested in my other projects:
+Thank you for visiting!
+Check out my other projects:
 
-- [The To Do App](https://github.com/CharanMN7/To-Do-App)
-- [QR code component](https://github.com/CharanMN7/QR-code-component)
+- [Personal Portfolio Page](https://github.com/CharanMN7/Personal-Portfolio-Page)
+- [Technical Documentation Page](https://github.com/CharanMN7/Tecnical-Documentation-Page)
 - [Green Screen Background Image Editor](https://codepen.io/charan_/pen/OJEWzRX)
 - [Simple Paint Canvas](https://codepen.io/charan_/pen/GRGrNyx)
 - [Turn a colored image to grey](https://codepen.io/charan_/pen/GRGrEpP)
